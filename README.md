@@ -28,8 +28,7 @@ Intelligence
 
 For the Artificial Intelligence internship, you will need to complete at least 3 tasks for successful completion of the internship.
 TASK 1 
-CHATBOT WITH RULE-BASED 
-RESPONSES 
+CHATBOT WITH RULE-BASED RESPONSES 
 Build a simple chatbot that responds to user inputs based on predefined rules. Use if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This will give you a basic understanding of natural language processing and conversation flow.
 TASK 2 
 TIC-TAC-TOE AI 
@@ -43,8 +42,7 @@ TASK 4
 RECOMMENDATION SYSTEM 
 Create a simple recommendation system that suggests items to users based on their preferences. You can use techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
 TASK 5 
-FACE DETECTION AND 
-RECOGNITION 
+FACE DETECTION AND RECOGNITION 
 Develop an AI application that can detect and recognize faces in images or videos. Use pre-trained face detection models like Haar cascades or deep learning-based face detectors, and optionally add face recognition capabilities using techniques like Siamese networks or ArcFace.
 ASK US FOR HELP! THE PURPOSE OF THIS INTERNSHIP IS TO LEARN AND GROW. 
 We have no desire to dictate to you. It is entirely up to you whether you seek guidance or not. 
